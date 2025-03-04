@@ -1,0 +1,1 @@
+This analysis focuses on the consoles with the highest game sales, compares two of the industry's biggest titles (Mario and Pokemon), and examines the correlation between these sales and other factors.
